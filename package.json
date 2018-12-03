@@ -1,0 +1,25 @@
+{
+  "name": "hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/main.js",
+    "watch": "tsc -w --skipLibCheck"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanrasoarahona3/hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanrasoarahona3/hw/issues"
+  },
+  "homepage": "https://github.com/ryanrasoarahona3/hw#readme",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "chalk": "^2.4.1"
+  }
+}
