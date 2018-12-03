@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "es2015"],
+    "outDir": ".",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "target": "es5",
+    "declaration": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
